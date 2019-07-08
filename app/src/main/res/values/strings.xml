@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Secure Face Recognition</string>
+    <string name="picture_button">TRAINING DB</string>
+    <string name="enrol">Enrol</string>
+    <string name="verify">Verify</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="eigenfaces">Eigenfaces</string>
+    <string name="fisherfaces">Fisherfaces</string>
+    <string name="threshold_face">Face threshold:</string>
+    <string name="threshold_distance">Distance threshold:</string>
+    <string name="maximum_images">Maximum number of images:</string>
+    <string name="clear_button">Clear training set</string>
+    <string name="flip">Flip</string>
+</resources>
