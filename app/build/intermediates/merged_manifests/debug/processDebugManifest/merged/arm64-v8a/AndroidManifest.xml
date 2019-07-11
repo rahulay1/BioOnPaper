@@ -42,13 +42,12 @@
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
         android:hardwareAccelerated="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:label="BioOnPaper"
         android:supportsRtl="false"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.lauszus.bioonpaper.FaceRecognitionAppActivity"
+            android:name="com.lauszus.bioonpaper.LogoPassword"
             android:label="BioOnPaper"
             android:screenOrientation="fullSensor"
             android:theme="@style/AppTheme.NoActionBar" >
@@ -58,6 +57,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.lauszus.bioonpaper.VerifyActivity" />
+        <activity android:name="com.lauszus.bioonpaper.FaceRecognitionAppActivity" />
+        <activity android:name="com.lauszus.bioonpaper.Reject" />
+        <activity android:name="com.lauszus.bioonpaper.Accept" />
         <activity
             android:name="com.journeyapps.barcodescanner.CaptureActivity"
             android:clearTaskOnLaunch="true"

@@ -4,7 +4,7 @@
     android:id="@+id/content_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FaceRecognitionAppActivity"
+    tools:context=".VerifyActivity"
     tools:showIn="@layout/app_bar_main">
 
     <LinearLayout
@@ -16,17 +16,17 @@
         android:orientation="horizontal"
         tools:ignore="UselessParent">
 
-        <Button
-            android:id="@+id/take_picture_button"
-            style="?metaButtonBarButtonStyle"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:paddingTop="20dp"
-            android:paddingBottom="20dp"
-            android:background="@color/black_overlay"
-            android:textColor="@android:color/white"
-            android:text="READ QR"/>
+        <!--<Button-->
+            <!--android:id="@+id/take_picture_button"-->
+            <!--style="?metaButtonBarButtonStyle"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:paddingTop="20dp"-->
+            <!--android:paddingBottom="20dp"-->
+            <!--android:background="@color/black_overlay"-->
+            <!--android:textColor="@android:color/white"-->
+            <!--android:text="READ QR"/>-->
 
 
 

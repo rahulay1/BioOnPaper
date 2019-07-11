@@ -6,58 +6,58 @@
     density="420dpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1562622947436"
+    timestamp="1562865932536"
     token="1382476006868181624"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="4606" />
+        duration="3167" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="5277" />
+        duration="182" />
     <task
         name="verifier"
-        duration="7638" />
+        duration="121" />
 
     <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\resources\instant-run\debug\resources-arm64-v8a-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
         location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\resources\instant-run\debug\resources-arm64-v8a-debug.apk"
         type="SPLIT" />
     <artifact
         location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
         location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\instant-run-apk\debug\BioOnPaper-1.2.3-arm64-v8a-debug.apk"
@@ -65,43 +65,43 @@
 
     <build
         build-mode="FULL"
-        timestamp="1562622947436"
+        timestamp="1562865932536"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\resources\instant-run\debug\resources-arm64-v8a-debug.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\resources\instant-run\debug\resources-arm64-v8a-debug.apk"
             type="SPLIT" />
         <artifact
             location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\ProgrammingWorkspace\BioOnPaper\app\build\intermediates\instant-run-apk\debug\BioOnPaper-1.2.3-arm64-v8a-debug.apk"

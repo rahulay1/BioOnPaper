@@ -2,27 +2,37 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.lauszus.bioonpaper">
 
-    <!--<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>-->
-    <uses-permission android:name="android.permission.CAMERA"/>
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
     <meta-data
         android:name="com.google.android.gms.vision.DEPENDENCIES"
-        android:value="face"/>
+        android:value="face" />
 
-    <uses-feature android:name="android.hardware.camera" android:required="false"/>
-    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
-    <uses-feature android:name="android.hardware.camera.front" android:required="false"/>
-    <uses-feature android:name="android.hardware.camera.front.autofocus" android:required="false"/>
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front.autofocus"
+        android:required="false" />
 
     <application
-        android:hardwareAccelerated="true"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
         android:label="BioOnPaper"
         android:supportsRtl="false"
         android:theme="@style/AppTheme">
-        <activity android:name=".FaceRecognitionAppActivity"
-            android:screenOrientation="fullSensor"
+        <activity
+            android:name=".LogoPassword"
             android:label="BioOnPaper"
+            android:screenOrientation="fullSensor"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,6 +40,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".VerifyActivity" />
+        <activity android:name=".FaceRecognitionAppActivity" />
+        <activity android:name=".Reject" />
+        <activity android:name=".Accept"></activity>
     </application>
 
 </manifest>
