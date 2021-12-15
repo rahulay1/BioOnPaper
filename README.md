@@ -10,5 +10,11 @@ Enrolment:https://m.apkpure.com/bioonpaperenrol/com.lauszus.bioonpaperqrgenerato
 Verification: https://m.apkpure.com/bioonpaperverify/com.lauszus.bioonpaper
 
 
+https://user-images.githubusercontent.com/16195603/146184424-39e39dc7-fca4-4b28-a906-5de55a1c233d.MOV
+
+
+
+
+
 Acknowledgement:
 The facebiometric parts were adopted from https://github.com/Lauszus/FaceRecognitionApp
